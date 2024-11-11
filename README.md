@@ -7,7 +7,7 @@ This is test and demo for GitHub
 
 ## This is level 2 heading
 
-*This is test and demo for GitHub*
+**This is test and demo for GitHub**
 
 _This is test and demo for GitHub_
 
