@@ -15,15 +15,9 @@ _This is test and demo for GitHub_
 - this is second item
 - this is third item
 
-## This is level 2 heading
 
-**This is test and demo for GitHub**
-
-_This is test and demo for GitHub_
+# This is Ahmad' branch
 
 - this is first item
 - this is second item
 - this is third item
-
-
-# This is Amina' branch
